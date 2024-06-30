@@ -1,0 +1,5 @@
+S = input()
+S_str = str(S)
+S_dot = S_str.split(".")
+S_len = len(S_dot)
+print(S_dot[S_len - 1])
