@@ -8,7 +8,6 @@ Use it **only** as a reference that you solved it this way.
 |a-clear.py|Clear|
 |a.py|Not Clear|
 |(Other)|Don't upload to AtCoder|
-|
 
 If folder name isn't same as above list' program name, don't write correct program or not correct program.
 Without above list.
