@@ -8,7 +8,6 @@ def solve(N, Q, A, queries):
     
     return results
 
-# 入力の読み込み
 import sys
 input = sys.stdin.read
 data = input().split()
@@ -26,9 +25,7 @@ for i in range(Q):
     queries.append((b, k))
     index += 2
 
-# 結果を計算
 results = solve(N, Q, A, queries)
 
-# 結果の出力
 for result in results:
     print(result)
