@@ -2,7 +2,6 @@ import sys
 from collections import defaultdict
 
 def solve():
-    # 入力受け取り
     N, M = list(map(int, input().split()))
     
     edge_count = defaultdict(int)
