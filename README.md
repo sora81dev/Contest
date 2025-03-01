@@ -5,8 +5,9 @@ Use it **only** as a reference that you solved it this way.
 
 |Example File Name|Status|
 |-|-|
-|a-clear.py|Clear|
-|a.py|Not Clear|
+|a-clear.py|'AC'|
+|a-tle.py|'TLE'|
+|a.py|'WA'|
 |(Other)|Don't upload to AtCoder|
 
 If folder name isn't same as above list' program name, don't write correct program or not correct program.

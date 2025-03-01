@@ -17,7 +17,6 @@ def calc():
 
     moves = sum(abs(ones[i] - (pos - index + i)) for i in range(k))
 
-    # 結果を出力
     print(moves)
 
 calc()
